@@ -14,7 +14,7 @@ Berikut adalah video demo yang menunjukkan cara menggunakan aplikasi ini:
 
 <div align="center">
 
-https://github.com/HafizKurni/tabel-maker/edit/main/demo/RecordIkanTabel.gif
+![Video Demo](.demo/RecordIkanTabel.gif)
 
 *Video demo menunjukkan langkah-langkah lengkap dari instalasi hingga penggunaan aplikasi*
 
