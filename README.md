@@ -14,7 +14,7 @@ Berikut adalah video demo yang menunjukkan cara menggunakan aplikasi ini:
 
 <div align="center">
 
-![Video Demo](.demo/RecordIkanTabel.gif)
+![VideoDemo](./demo/RecordIkanTabel.gif)
 
 *Video demo menunjukkan langkah-langkah lengkap dari instalasi hingga penggunaan aplikasi*
 
