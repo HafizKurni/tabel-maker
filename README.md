@@ -12,7 +12,7 @@ Aplikasi ini bersifat **interaktif**, memungkinkan Anda untuk melihat pratinjau 
 
 Berikut adalah video demo yang menunjukkan cara menggunakan aplikasi ini:
 
-[![Demo Pembuat Tabel HTML](https://img.shields.io/badge/🎥-Tonton_Demo_Video-red?style=for-the-badge)](./demo/RecordIkanTabel.gif)
+[![Demo Pembuat Tabel HTML](https://img.shields.io/badge/🎥-Tonton_Demo_Video-red?style=for-the-badge)](/demo/RecordIkanTabel.gif)
 
 *Video demo menunjukkan langkah-langkah lengkap dari instalasi hingga penggunaan aplikasi*
 
