@@ -12,9 +12,13 @@ Aplikasi ini bersifat **interaktif**, memungkinkan Anda untuk melihat pratinjau 
 
 Berikut adalah video demo yang menunjukkan cara menggunakan aplikasi ini:
 
-[![Demo Pembuat Tabel HTML](https://img.shields.io/badge/🎥-Tonton_Demo_Video-red?style=for-the-badge)](/demo/RecordIkanTabel.gif)
+<div align="center">
+
+https://github.com/HafizKurni/tabel-maker/edit/main/demo/RecordIkanTabel.gif
 
 *Video demo menunjukkan langkah-langkah lengkap dari instalasi hingga penggunaan aplikasi*
+
+</div>
 
 ## ✨ Fitur Utama
 
@@ -111,20 +115,23 @@ streamlit-table-maker/
 ├── streamlit_table_maker.py  # File utama aplikasi Streamlit
 ├── demo/                     # Folder berisi materi demo
 │   └── table-maker-demo.mp4  # Video demo aplikasi
+├── assets/                   # Folder untuk assets tambahan
+│   └── screenshots/          # Screenshot aplikasi
 ├── README.md                 # Dokumentasi proyek (file ini)
 └── requirements.txt          # Daftar dependensi Python
 ```
 
 ## 🎥 Panduan Video
 
-Untuk panduan visual yang lebih detail, tonton video demo yang tersedia di folder [`demo/`](./demo/). Video ini mencakup:
+Video demo di atas menunjukkan penggunaan lengkap aplikasi, termasuk:
 
 - 📋 **Instalasi dan setup**
-- ⚙️ **Konfigurasi tabel**
-- 🎨 **Kustomisasi tampilan**
-- 📊 **Input data tabel**
-- 📋 **Menyalin kode HTML**
-- 🌐 **Paste ke Google Sites**
+- ⚙️ **Konfigurasi tabel** (baris, kolom, pengaturan)
+- 🎨 **Kustomisasi tampilan** (warna, font, border)
+- 📊 **Input data tabel** secara langsung
+- 👀 **Pratinjau real-time** perubahan
+- 📋 **Menyalin kode HTML** yang dihasilkan
+- 🌐 **Paste ke Google Sites** dan hasil akhir
 
 ## 🤝 Berkontribusi
 
